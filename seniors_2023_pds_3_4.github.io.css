@@ -1,0 +1,24 @@
+p {color: #101820FF;
+font-size:40px;}
+*{box-sizing: border-box;
+}
+body {background-color: 	#d8ac95;
+color:#dfd4cc;}
+.topnav{ background-color:#8f6050;
+overflow: hidden;
+}
+.topnav a{color:#dfd4cc;
+float:left;
+display:block;
+text-align:center;
+padding:10px 11px; }
+
+.topnav a:hover{
+  background-color:	#b47e68;
+  color: black ;
+}
+.header {
+  background-color: #8f6050 ;
+  padding:1px;
+  text-align:center;
+  color:#dfd4cc; }
